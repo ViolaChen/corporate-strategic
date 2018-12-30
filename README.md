@@ -6,13 +6,11 @@
 或者在issues里面开个自己的树洞贴,把自己平时觉得做项目时自己需要注意的点写在里面.
 比如: 
 
-issue主题:大蔚对自己的提醒
-内容:时刻注意交叉验证
-有趣度框架,反常识非常重要.
-阳老师讲过,怎么快速暴露自己的思维短板?---正面查询资料,只会让自己避免一类错误,但是我还可以去检索:反对这个话题的是什么?
+@pic
 
 2. 成果沉淀到wiki里,wiki里面放整理好的清单,说明等.
 并在issue里面放置对应wiki链接.
+
 
 3. 认领好任务后,在仓库里自创文件夹.
 
@@ -24,3 +22,9 @@ issue主题:大蔚对自己的提醒
 
 因为最后我们需要把成果汇总起来,所以文件夹命名上大家尽量写的详细一些,以后好汇总.
 
+
+## 贡献规则
+先放上找到的两个协作贡献规则.
+
+[协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
+[GitHub Commit message 用语规范 | 安人集团](https://github.com/OpenMindClub/Share/wiki/HbGitHubCommitMessage)
