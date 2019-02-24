@@ -9,9 +9,14 @@
 
 ## 确立企业外部因素(机会与威胁)
 
-波特五力;
+2.1 1．供应商的议价能力（Bargaining Power of Suppliers)
+2.2 2．购买者的议价能力 (Bargaining Power of Buyers)
+2.3 3．新进入者的威胁（Threat of New Entrants）
+2.4 4．替代品的威胁 (Substitutes)
+2.5 5．同业竞争者的竞争程度 (Rivalry)
 
-pest
+
+
 
 ## 检视企业内部优势劣势
 
