@@ -17,6 +17,10 @@ SWOt-AHP小米分析
 
 2. 智能手机行业报告
 
+- [IDC：温故而知新盘点2018年国内智能手机市场](https://www.idc.com/url.do?url=/includes/pdf_download.jsp?containerId=prCHC44855319&position=8)
+
+- [极光大数据:2018年Q4 智能手机行业研究报告](http://co-image.qichacha.com/upload/chacha/att/20180509/1525857307442981.pdf)
+
 3. 苹果OR 三星年报
 
 ### 分析结果
